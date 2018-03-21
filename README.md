@@ -1,7 +1,7 @@
 # Jorge Peixinho: Harmonicos (1967) Max Patcher
 
 
-Here you'll find the Max patch intended to perform Jorge Peixinho's _Harmonicos_.
+Here you'll find the Max patch _asd_JP_Harmonicos.maxpat_ intended to perform Jorge Peixinho's _Harmonicos_.
 
 Hence you'll nedd at least the MaxMSP Runtime Application to run it.
 
