@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "harmonicos">
+	<slot number = "1">
+		<pattr name = "device_active" value = "1 1 1 1" />
+		<pattr name = "filter_Q" value = "" />
+		<pattr name = "filter_bw" value = "" />
+		<pattr name = "filter_display" value = "" />
+		<pattr name = "filter_freq" value = "" />
+		<pattr name = "filter_gain" value = "" />
+		<pattr name = "filter_gainmode" value = "" />
+		<pattr name = "filter_switch" value = "" />
+		<pattr name = "input_matrix" value = "0 0 0 0 1 1 1 0 1 1 1 0 2 0 0 2 1 0 3 0 0 3 1 0 4 0 0 4 1 0 5 0 0 5 1 0 6 0 0 6 1 0 7 0 0 7 1 0 8 0 0 8 1 0 9 0 0 9 1 0 10 0 0 10 1 0 11 0 0 11 1 0 12 0 0 12 1 0 13 0 0 13 1 0 14 0 0 14 1 0 15 0 0 15 1 0 16 0 0 16 1 0" />
+		<pattr name = "menu_choice" value = "0" />
+		<patcher name = "LocationControl">
+			<pattr name = "dispositivo_position" value = "25 32 171 29 0 0 0 0 0 0 0 0 0 0 0 0" />
+		</patcher>
+		<patcher name = "Dispositivo[1]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[3]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[2]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "device_active" value = "1 1 1 1" />
+		<pattr name = "filter_Q" value = "" />
+		<pattr name = "filter_bw" value = "" />
+		<pattr name = "filter_display" value = "" />
+		<pattr name = "filter_freq" value = "" />
+		<pattr name = "filter_gain" value = "" />
+		<pattr name = "filter_gainmode" value = "" />
+		<pattr name = "filter_switch" value = "" />
+		<pattr name = "input_matrix" value = "" />
+		<pattr name = "menu_choice" value = "0" />
+		<patcher name = "LocationControl">
+			<pattr name = "dispositivo_position" value = "25 32 171 29 0 0 0 0 0 0 0 0 0 0 0 0" />
+		</patcher>
+		<patcher name = "Dispositivo[1]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[3]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[2]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "device_active" value = "1 1 1 1" />
+		<pattr name = "filter_Q" value = "" />
+		<pattr name = "filter_bw" value = "" />
+		<pattr name = "filter_display" value = "" />
+		<pattr name = "filter_freq" value = "" />
+		<pattr name = "filter_gain" value = "" />
+		<pattr name = "filter_gainmode" value = "" />
+		<pattr name = "filter_switch" value = "" />
+		<pattr name = "input_matrix" value = "0 0 1 0 1 0 1 0 0 1 1 1 2 0 0 2 1 0 3 0 0 3 1 0 4 0 0 4 1 0 5 0 0 5 1 0 6 0 0 6 1 0 7 0 0 7 1 0 8 0 0 8 1 0 9 0 0 9 1 0 10 0 0 10 1 0 11 0 0 11 1 0 12 0 0 12 1 0 13 0 0 13 1 0 14 0 0 14 1 0 15 0 0 15 1 0 16 0 0 16 1 0" />
+		<pattr name = "menu_choice" value = "1" />
+		<patcher name = "LocationControl">
+			<pattr name = "dispositivo_position" value = "25 32 171 29 0 0 0 0 0 0 0 0 0 0 0 0" />
+		</patcher>
+		<patcher name = "Dispositivo[1]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[3]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[2]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "6">
+		<pattr name = "device_active" value = "1 1 0 0" />
+		<pattr name = "filter_Q" value = "0.81" />
+		<pattr name = "filter_bw" value = "12266.3" />
+		<pattr name = "filter_display" value = "1" />
+		<pattr name = "filter_freq" value = "9935.702148" />
+		<pattr name = "filter_gain" value = "0.960229" />
+		<pattr name = "filter_gainmode" value = "1" />
+		<pattr name = "filter_switch" value = "1" />
+		<pattr name = "input_matrix" value = "0 0 1 0 1 0 1 0 0 1 1 1 2 0 0 2 1 0 3 0 0 3 1 0 4 0 0 4 1 0 5 0 0 5 1 0 6 0 0 6 1 0 7 0 0 7 1 0 8 0 0 8 1 0 9 0 0 9 1 0 10 0 0 10 1 0 11 0 0 11 1 0 12 0 0 12 1 0 13 0 0 13 1 0 14 0 0 14 1 0 15 0 0 15 1 0 16 0 0 16 1 0" />
+		<pattr name = "menu_choice" value = "0" />
+		<patcher name = "LocationControl">
+			<pattr name = "dispositivo_position" value = "25 32 171 29 0 0 0 0 0 0 0 0 0 0 0 0" />
+		</patcher>
+		<patcher name = "Dispositivo[1]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "1" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "1" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "1" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[3]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "0" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "0" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "0" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+		<patcher name = "Dispositivo[2]">
+			<pattr name = "delay_input_level" value = "127" />
+			<pattr name = "delay_input_switch" value = "0" />
+			<pattr name = "delay_output_level" value = "127" />
+			<pattr name = "delay_output_switch" value = "0" />
+			<pattr name = "delay_time" value = "7000" />
+			<pattr name = "direct_level" value = "127" />
+			<pattr name = "direct_switch" value = "0" />
+			<pattr name = "filter_Q" value = "1." />
+			<pattr name = "filter_bw" value = "12432.801758" />
+			<pattr name = "filter_delay" value = "1 0 1 0 0 0 12432.801758 1. 1." />
+			<pattr name = "filter_freq" value = "12432.801758" />
+			<pattr name = "filter_gain" value = "1." />
+			<pattr name = "filter_gainmode" value = "0" />
+			<pattr name = "filter_menu" value = "1" />
+			<pattr name = "filter_switch" value = "0" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
