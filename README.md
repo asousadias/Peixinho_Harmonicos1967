@@ -5,7 +5,7 @@ Here you'll find the Max patch _**asd_JP_Harmonicos.maxpat**_ and all subpatcher
 
 Hence you'll nedd at least the MaxMSP Runtime Application to run it.
 
-You can find the score for an ensemble version of the work at the _Portuguese Music Information & Research Centre_ (http://mic.pt/) here:
+You can find the score of an ensemble version of _Harmónicos_ at the _Portuguese Music Information & Research Centre_ (http://mic.pt/) here:
 http://mic.pt/dispatcher?where=3&what=2&show=0&edicao_id=7129&lang=PT
 
 For information about use, issues and discussion, see:
