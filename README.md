@@ -1,4 +1,4 @@
-# Jorge Peixinho: Harmonicos (1967) Max Patcher
+# Jorge Peixinho: _Harmonicos_ (1967) Max Patcher
 Max patch for the performance of Jorge Peixinho's _Harmonicos_
 
 Here you'll find the Max patch _**asd_JP_Harmonicos.maxpat**_ and all subpatchers needed to perform Jorge Peixinho's _Harmonicos_.
