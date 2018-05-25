@@ -5,6 +5,9 @@ Here you'll find the Max patch _**asd_JP_Harmonicos.maxpat**_ and all subpatcher
 
 Hence you'll nedd at least the MaxMSP Runtime Application to run it.
 
+You can find the score for an ensemble version of the work at the _Portuguese Music Information & Research Centre_ (http://mic.pt/) here:
+http://mic.pt/dispatcher?where=3&what=2&show=0&edicao_id=7129&lang=PT
+
 For information about use, issues and discussion, see:
 
 Sousa Dias, A. (2009) Case studies in live electronic music preservation: Recasting Jorge Peixinho’s Harmónicos (1967-1986) and Sax-Blue (1984-1992). Journal of Science and Technology of the Arts (1).  URL : http://artes.ucp.pt/citarj/article/viewFile/11/10.
